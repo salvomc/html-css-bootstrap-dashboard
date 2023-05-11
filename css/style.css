@@ -61,3 +61,44 @@ ul li{
 .side-bar-hover ul li:hover{
     background-color: #C1C1C1;
 }
+
+.search-bar{
+    width: 95%;
+}
+
+/* main */
+
+/* container boolean */
+
+.main-container{
+    padding-left: 56px;
+}
+
+.blaze-margin{
+    margin-left: 5px;
+}
+
+#new-student{
+    text-align: left;
+}
+
+/* container prossime classi */
+
+.table-ch tr:hover{
+    background-color: #E4E4E4;
+}
+
+.row-width{
+    width: 6rem;
+}
+
+.table-icon{
+    width: 25px;
+    border-radius: 50%;
+}
+
+/* container-faq */
+
+.faq-container{
+    margin-top: 20px;
+}
