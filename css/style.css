@@ -43,3 +43,21 @@ ul li{
     color: #FF8C00;
 }
 
+/* sidebar */
+
+.side-bar-container{
+    padding-top: 70px;
+}
+
+.side-bar{
+    height: calc(100vh - 70px);
+    width: 68px;
+    margin-left: -12px;
+    background-image: url(../img/sidebar-bg.png);
+    color: #FFFFFF;
+    background-color: #051E34;
+}
+
+.side-bar-hover ul li:hover{
+    background-color: #C1C1C1;
+}
