@@ -3,3 +3,43 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+/* shared classes */
+
+ul li{
+    list-style-type: none;
+}
+
+.padding-25{
+    padding-left: 25px;
+}
+
+/* header */
+
+/* topbar */
+
+.topbar-logo{
+    height: 50px;
+}
+
+.header-container{
+    height: 70px;
+    z-index: 5;
+}
+
+.search-bar{
+    width: 100%;
+}
+
+#search-bar-field{
+    width: 100%;
+}
+
+.topbar-link{
+    color: #000000;
+}
+
+.fa-bell{
+    color: #FF8C00;
+}
+
